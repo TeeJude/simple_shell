@@ -4,11 +4,7 @@
  * interactive - returns true if shell is interactive mode
  * @info: struct address
  *
-<<<<<<< HEAD
  * Return: 1 if interactive mode, 0 otherwise
-=======
- * Return: 1 in interactive mode, 0
->>>>>>> f588d1c80d30d6034178d74ce5a31704c88591ca
  */
 int interactive(info_t *info)
 {
